@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'AwakeBold';
+  src:
+    local('AwakeBold'),
+    url('./Awake/awake-bold-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'AwakeBold-Italic';
+  src:
+    local('AwakeBold-Italic'),
+    url('./Awake/awake-bolditalic-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Awake-Italic';
+  src:
+    local('Awake-Italic'),
+    url('./Awake/awake-italic-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Awake-Light';
+  src:
+    local('Awake-Light'),
+    url('./Awake/awake-light-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Awake-Light-Italic';
+  src:
+    local('Awake-Light-Italic'),
+    url('./Awake/awake-lightitalic-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Awake-Regular';
+  src:
+    local('Awake-Regular'),
+    url('./Awake/awake-regular-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Anderson-Signature';
+  src:
+    local('Anderson-Signatere'),
+    url('./Handwritten/anderssignature-webfont.woff') format('woff'),
+    url('./Handwritten/anderssignature-webfont.woff') format('woff2');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue' ;
+  src: local('Helvetica-Neue'),
+  url('./Helvetica/helvetica-neu.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Coolvetica';
+  src: local('Coolvetica'),
+    url('./Helvetica/CoolveticaRg-Regular.woff') format('woff'),
+    url('./Helvetica/CoolveticaRg-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'La Belle Aurore';
+  src: local('La-Belle-Aurore'),
+    url('./LaBelle/LaBelleAurore.woff') format('woff'),
+    url('./LaBelle/LaBelleAurore.woff2') format('woff2'),
+}

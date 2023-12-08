@@ -1,0 +1,19 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 70,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "files.autoSave": "afterDelay",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+  "editor.formatOnPaste": true,
+  "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+  "prettier.embeddedLanguageFormatting": "off",
+  "prettier.quoteProps": "consistent",
+  "prettier.configPath": "/Users/susie/Projects/suz-website/.prettierrc.js"
+}
