@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/suz-website/static/css/main.f1065d56.css",
+    "main.js": "/suz-website/static/js/main.594d142c.js",
+    "static/media/awake-lightitalic-webfont.woff": "/suz-website/static/media/awake-lightitalic-webfont.97542f1419ad6950ca07.woff",
+    "static/media/awake-bolditalic-webfont.woff": "/suz-website/static/media/awake-bolditalic-webfont.c2a43b05e1f2cdaae2a3.woff",
+    "static/media/awake-italic-webfont.woff": "/suz-website/static/media/awake-italic-webfont.d23df0490b54351400f9.woff",
+    "static/media/anderssignature-webfont.woff": "/suz-website/static/media/anderssignature-webfont.f1c7492da07c0ac4961a.woff",
+    "static/media/awake-bold-webfont.woff": "/suz-website/static/media/awake-bold-webfont.cfcf844831f6661b5abd.woff",
+    "static/media/awake-light-webfont.woff": "/suz-website/static/media/awake-light-webfont.3be74c25215c8cdea3bc.woff",
+    "static/media/awake-regular-webfont.woff": "/suz-website/static/media/awake-regular-webfont.333c8362af6c41bcaef7.woff",
+    "static/media/helvetica-neu.ttf": "/suz-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/suz-website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/suz-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/suz-website/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/suz-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/suz-website/index.html",
+    "main.f1065d56.css.map": "/suz-website/static/css/main.f1065d56.css.map",
+    "main.594d142c.js.map": "/suz-website/static/js/main.594d142c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1065d56.css",
+    "static/js/main.594d142c.js"
+  ]
+}
